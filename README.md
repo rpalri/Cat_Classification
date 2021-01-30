@@ -7,3 +7,8 @@ This project is a part of the course [Neural Networks and Deep Learning on Cours
 1. Use non-linear units like ReLU to improve your model
 2. Build a deeper neural network (with more than 1 hidden layer)
 3. Implement an easy-to-use neural network class
+
+## Results
+1. Model working successfully
+2. Accuracy acheived : 76%
+3. Model can be further improved by altering the number of layers and adjusting hyper-parameters.
